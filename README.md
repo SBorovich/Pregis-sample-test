@@ -5,7 +5,7 @@
 
 ### **We are exciting to introduce our _Pregis Testing Project!_**
 
-As a team of dedicated professionals in QA Automation, we rigorously test the **_[Pregis]((https://www.pregis.com/))_** website from various perspectives, including performance and security testing, API and front-end testing, as well as Selenium WebDriver automation. Additionally, we create comprehensive QA documentation to ensure quality at every step.
+As a team of dedicated professionals in QA Automation, we rigorously test the **_[Pregis](https://www.pregis.com/)_** website from various perspectives, including performance and security testing, API and front-end testing, as well as Selenium WebDriver automation. Additionally, we create comprehensive QA documentation to ensure quality at every step.
 
 Leveraging the power of **AI**, we enhance the effectiveness of our testing processes.
 
