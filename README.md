@@ -3,7 +3,7 @@
 
 ![Pregis](https://img.packworld.com/files/base/pmmi/all/image/2018/11/pw_9652426_pregis_logo_4c.png?auto=format%2Ccompress&fit=max&q=70&w=1200)
 
-### **We are exciting to introduce our _Pregis Testing Project!_**
+### **We are excited to introduce our _Pregis Testing Project!_**
 
 As a team of dedicated professionals in QA Automation, we rigorously test the **_[Pregis](https://www.pregis.com/)_** website from various perspectives, including performance and security testing, API and front-end testing, as well as Selenium WebDriver automation. Additionally, we create comprehensive QA documentation to ensure quality at every step.
 
